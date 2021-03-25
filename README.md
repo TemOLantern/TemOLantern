@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Quiescent</h1>
+- 👋 Hi, I’m @Quiescent
 - 👀 I’m interested in ...
 ```
 learning
